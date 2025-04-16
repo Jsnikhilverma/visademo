@@ -9,7 +9,6 @@ import {
   ArrowLeft,
   ArrowRight,
   CheckCircle,
-  Globe,
   Lock,
   Shield,
   Upload,
