@@ -6,7 +6,7 @@ import { ThemeProvider } from "@/components/ui/theme-provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Global Visa Solutions - Premium Visa & Passport Services in India",
+  title: "AXE VISA TECHNOLOGY",
   description:
     "Luxury visa and passport application services across India. Fast, reliable, and premium service for all your travel document needs.",
 };
