@@ -14,7 +14,6 @@ import {
   CheckCircle,
   Clock,
   FileCheck,
-  Globe,
   MapPin,
   Phone,
   Shield,
