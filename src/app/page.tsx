@@ -291,7 +291,7 @@ export default function Home() {
                 Our Simple Process
               </h2>
               <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-                We've streamlined the visa and passport application process to
+                We have streamlined the visa and passport application process to
                 make it hassle-free for you
               </p>
             </div>
@@ -537,7 +537,7 @@ export default function Home() {
               </h2>
               <p className="text-gray-600 max-w-3xl mx-auto">
                 Check the specific requirements for popular destinations. Our
-                experts can assist with any country's visa process.
+                experts can assist with any country visa process.
               </p>
             </div>
 
@@ -873,9 +873,9 @@ export default function Home() {
                     <Star className="h-5 w-5 fill-yellow-500 text-yellow-500" />
                   </div>
                   <p className="text-gray-300">
-                    "The premium service was worth every penny. My business visa
+                    The premium service was worth every penny. My business visa
                     was processed in record time, and the staff was incredibly
-                    professional and attentive."
+                    professional and attentive.
                   </p>
                 </CardContent>
               </Card>
@@ -904,9 +904,9 @@ export default function Home() {
                     <Star className="h-5 w-5 fill-yellow-500 text-yellow-500" />
                   </div>
                   <p className="text-gray-300">
-                    "I was amazed by the luxury experience. The lounge was
+                    I was amazed by the luxury experience. The lounge was
                     comfortable, and my tourist visa was processed without any
-                    hassle. Highly recommended!"
+                    hassle. Highly recommended!
                   </p>
                 </CardContent>
               </Card>
@@ -933,9 +933,9 @@ export default function Home() {
                     <Star className="h-5 w-5 fill-yellow-500 text-yellow-500" />
                   </div>
                   <p className="text-gray-300">
-                    "Their passport renewal service is exceptional. The
-                    attention to detail and personalized approach made the
-                    entire process smooth and stress-free."
+                    Their passport renewal service is exceptional. The attention
+                    to detail and personalized approach made the entire process
+                    smooth and stress-free.
                   </p>
                 </CardContent>
               </Card>
